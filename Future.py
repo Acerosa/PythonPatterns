@@ -8,4 +8,4 @@ def future(n):
             print("* ", end="")
         print("\r")
 
-future(5)
+future(15)

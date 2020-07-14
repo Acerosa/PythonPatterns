@@ -9,4 +9,4 @@ def xmasTree(n):
         print("\r")
 
 
-xmasTree(50)
+xmasTree(30)

@@ -8,4 +8,4 @@ def cone(n):
             print("*", end=" ")
         print("\r")
 
-cone(27)
+cone(30)
