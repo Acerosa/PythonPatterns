@@ -8,10 +8,10 @@ def xmasTree(n):<br />
    * k = 2 * n -2<br />
     for i in range(0,n):<br />
         * for j in range(0,k):<br />
-            print(end=" ")
-        k = k-1
+          * print(end=" ")<br />
+        k = k-1<br />
         for j in range(0, i+1):<br />
-            print("*", end=" ")
+           * print("*", end=" ")<br />
         print("\r")
         
 ![XmasTree](/Images/XmasTree.png)
