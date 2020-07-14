@@ -4,7 +4,7 @@ Some fun patters using loops in Python.
 
 ## XmasTree
 
-![XmasTree](Images\XmasTree.png)
+![XmasTree](/Images/XmasTree.png)
 
 def xmasTree(n):
     k = 2 * n -2
@@ -18,7 +18,7 @@ def xmasTree(n):
         
 ### Cone
 
-![XmasTree](Images\Cone.png)
+![Cone](/Images/Cone.png)
 
 def cone(n):
     k = 2 * n -2
@@ -32,7 +32,7 @@ def cone(n):
 
 ### Future
 
-![XmasTree](Images\Future.png)
+![Future](/Images/Future.png)
 
 def future(n):
     for i in range(0,n):
