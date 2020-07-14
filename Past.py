@@ -16,4 +16,4 @@ def past(n):
             print("* ", end="")
         print("\r")
 
-past(5)
+past(15)
